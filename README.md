@@ -1,18 +1,14 @@
 # En este curso gratuito,
 
-	- Aspectos generales de una aplicación AngularJS: Modules, constants, values, Run, Config, Inyección de dependencias.
-	- Ruteo básico 
-	- Ruteo avanzado con UI-Router y Controladores
-	- Llamadas http y Servicios,/Factories
-	- Mejorando http con ngResource
-	- Mejorando controladores con ControllerAs
-	- Formularios y directivas básicas: ng-select. ng-click, ng-hide, ng-show, nf-if, ng-switch
-	- Comunicando controladores
-	- Creando directivas para encapsular funcionalidad
-	- Modificando todas las llamadas al servidor con httpProvider
-	- Integrando UI-bootstrap para manejar el diseño y componentes como modal, datepicker, etc
-
+-Estructura de una aplicación en Angular
+-Componentes de angular: modulos, controllers, filter y su uso
+-Hacer un CRUD con los componentes básicos y ruteo nativo
+-Mejorar el CRUD con ui router y restangular
+-integrar Firebase para manejar el backend y no tener que escribirlo
+- mejorarando la aplicacion haciendo componentes reutilizables gracias a las directivas
+- integrar plugins de jquery y modulos de 3eros
+- automatizar tareas, minificado y buenas practicas de performance
 
 # Contexto de Aplicación	
-## Blog ?, un Dashboard conectado a alguna API?
+## Blog ?, un Dashboard conectado a alguna API? -> Se sugiere aportar a una nuvea version del sitio gdg.
 
